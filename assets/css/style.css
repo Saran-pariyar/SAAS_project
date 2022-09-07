@@ -284,20 +284,9 @@ width: 80%;
     margin: 0 .3rem;
   }
 
-
-
-
-
-
-
-
-
-
-
-
 .main-gif-image{
     height: 80vh;
-    /* width: 50%; */
+    max-width: 100%;
    
 }
 
